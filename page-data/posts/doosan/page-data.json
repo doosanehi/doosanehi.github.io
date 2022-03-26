@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/doosan",
+    "result": {"pageContext":{"currentCategory":"doosan","categories":["All","블로그","featured","tutorial","doosan"],"edges":[{"node":{"id":"76d6ebff-3940-550b-85c0-2f5040cb5c55","excerpt":"#doosan this is my test  is edited??","fields":{"slug":"/doosan/"},"frontmatter":{"categories":"tutorial doosan","title":"doosan's test","date":"March 22, 2021"}},"next":{"fields":{"slug":"/gatsby-starter-zoomkoding-introduction/"}},"previous":{"fields":{"slug":"/gatsby-github-blog/"}}}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
